@@ -1,0 +1,8 @@
+.cardMovies {
+  list-style: none;
+  font-size: 8rem;
+}
+.movieImage {
+  border-radius: 10px;
+  background-color: azure;
+}
